@@ -1,0 +1,14 @@
+CREATE DATABASE cloud_db;
+USE cloud_db;
+
+CREATE TABLE users (
+  id INT PRIMARY KEY,
+  name VARCHAR(50),
+  role VARCHAR(10)
+);
+
+CREATE TABLE resources (
+  id INT PRIMARY KEY,
+  type VARCHAR(30),
+  configuration VARCHAR(100)
+);

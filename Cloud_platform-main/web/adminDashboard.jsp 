@@ -1,0 +1,11 @@
+<html>
+<body>
+<h2>Admin Dashboard</h2>
+<ul>
+    <li>User Management</li>
+    <li>Resource Management</li>
+    <li>Billing</li>
+    <li>Support Requests</li>
+</ul>
+</body>
+</html>

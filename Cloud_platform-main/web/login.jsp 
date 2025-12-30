@@ -1,0 +1,14 @@
+<html>
+<body>
+<h2>Cloud Platform Login</h2>
+<form action="login" method="post">
+    Role:
+    <select name="role">
+        <option value="admin">Admin</option>
+        <option value="user">User</option>
+    </select>
+    <br><br>
+    <button type="submit">Login</button>
+</form>
+</body>
+</html>

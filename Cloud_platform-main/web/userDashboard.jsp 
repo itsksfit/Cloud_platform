@@ -1,0 +1,10 @@
+<html>
+<body>
+<h2>User Dashboard</h2>
+<ul>
+    <li>Deploy Resources</li>
+    <li>Monitor Resources</li>
+    <li>Billing Reports</li>
+</ul>
+</body>
+</html>
