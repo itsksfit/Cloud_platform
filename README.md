@@ -1,7 +1,6 @@
 # CLOUD COMPUTING MANAGEMENT PLATFORM
 
 ---
-
 ## PROBLEM STATEMENT
 
 • Many organizations still manage cloud infrastructure and computing resources manually or through disconnected tools, leading to inefficiencies and increased operational complexity.  
